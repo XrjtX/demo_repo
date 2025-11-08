@@ -4,11 +4,6 @@ Some description1
 
 ##Subheader
 
-aayyy yooo
+# Local Development
 
-sexy lady
-
-hell
-
-k ho k ho niii
-
+1. Open index.html in your browser. 
